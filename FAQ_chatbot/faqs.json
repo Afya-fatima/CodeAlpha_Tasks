@@ -1,0 +1,36 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a popular programming language used for web development, automation, data science, and artificial intelligence."
+    },
+    {
+        
+    "question": "What is artificial intelligence? What is AI? Tell me about AI.",
+    "answer": "Artificial Intelligence, or AI, is the field of creating computer systems that can perform tasks that normally require human intelligence."
+},
+    
+    {
+        "question": "What is machine learning?",
+        "answer": "Machine learning is a branch of AI where computers learn patterns from data and use them to make predictions or decisions."
+    },
+    {
+        "question": "How can I learn Python?",
+        "answer": "You can start by learning Python syntax, variables, conditions, loops, functions, and then practice with small projects."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "Natural Language Processing, or NLP, is a field of AI that helps computers understand and work with human language."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a computer program that communicates with users through text or voice and provides responses to their questions."
+    },
+    {
+        "question": "What is artificial intelligence used for?",
+        "answer": "AI is used in areas such as virtual assistants, recommendation systems, image recognition, healthcare, robotics, and language processing."
+    },
+    {
+        "question": "What is programming?",
+        "answer": "Programming is the process of writing instructions that tell a computer how to perform tasks."
+    }
+]
